@@ -1,0 +1,32 @@
+{
+  "name": "AKICITOS - Explora, Conecta y Disfruta",
+  "short_name": "AKICITOS",
+  "description": "Directorio de negocios locales en Santa Cruz",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#e74c3c",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["business", "local", "directory"],
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
